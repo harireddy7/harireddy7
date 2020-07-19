@@ -1,6 +1,9 @@
 <h2 align="center">Hi there 👋</h2>
 <h3 align="center">I'm Hari, UI Developer ❤️</h3>
 <p align="center">
+  <a href="https://harikotha.netlify.app/" target="blank">Check out my Portfolio</a>
+</p>
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=harireddy7" alt="harireddy7" />
 </p>
 
