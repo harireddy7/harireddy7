@@ -24,7 +24,7 @@
  
  > Under constant learning to become a Full stack developer 😊
  
-  #### Say Hi:
+  #### Connect:
   
  <p align="left">
   <a href="https://linkedin.com/in/harikotha13" target="blank">
