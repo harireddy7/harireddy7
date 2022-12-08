@@ -42,9 +42,13 @@
 #### Github Stats:
 
 <br/>
+<!-- 
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=harireddy7&show_icons=true&locale=en&layout=compact&theme=radical&hide_title=true" alt="harireddy7" /></p>
 <br /><br /><br /><br /><br /><br /><br />
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=harireddy7&show_icons=true&locale=en&theme=radical&hide_title=true" alt="harireddy7" /></p>
 <br /><br /><br /><br /><br /><br /><br /><br />
+-->
+  
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=harireddy7&theme=radical" alt="harireddy7" /></p>
 
