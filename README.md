@@ -1,5 +1,5 @@
 <h2 align="center">Hi there 👋</h2>
-<h3 align="center">I'm Hari, Web Developer from Hyderabad, india ❤️</h3>
+<h3 align="center">I'm Hari</h3>
 <p align="center">
   <a href="https://harikotha.netlify.app/" target="blank">Check out my personal website</a>
 </p>
@@ -7,7 +7,7 @@
   <img src="https://komarev.com/ghpvc/?username=harireddy7" alt="harireddy7" />
 </p>
 
-### 😇 Technologies I know & working on -
+### Skills
 
 <p align="left">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" />&nbsp;&nbsp;&nbsp;
