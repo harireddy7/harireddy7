@@ -1,15 +1,18 @@
-<h2 align="center">Hi there 👋</h2>
-<h3 align="center">I'm Hari</h3>
+<p align="center">Hi there 👋</p>
+<h1 align="center">I'm Hari</h1>
 <p align="center">
-  <a href="https://harikotha.netlify.app/" target="blank">Check out my personal website</a>
+  👉 <a href="https://harikotha.netlify.app/" target="blank"> Portfolio</a>
 </p>
+<!--
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=harireddy7" alt="harireddy7" />
 </p>
+-->
+<br>
+<h3 align="center">Skills</h3>
+<br>
 
-### Skills
-
-<p align="left">
+<p align="center">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" />&nbsp;&nbsp;&nbsp;
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" />&nbsp;&nbsp;&nbsp;
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" title="javascript" width="40" height="40" />&nbsp;&nbsp;&nbsp;
@@ -24,24 +27,24 @@
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" title="git" />
 </p>
 
- <pre>Currently learning Typescript and exploring front technologies 😊</pre>
- 
-  #### Connect with me on -
+ <br>
+<h3 align="center">Ping Me</h3>
+<br>
   
- <p align="left">
+ <p align="center">
     <a href="https://linkedin.com/in/harikotha13" target="blank"/>
-        <img src="https://img.icons8.com/color/30/000000/linkedin.png" alt="linkedin" />
+        <img src="https://img.icons8.com/color/30/000000/linkedin.png" alt="LinkedIn" />
     </a>&nbsp;&nbsp;&nbsp;
     <a href="https://twitter.com/harikotha13" target="blank" />
-        <img src="https://img.icons8.com/fluent/30/000000/twitter.png"" alt="twitter" />
+        <img src="https://img.icons8.com/fluent/30/000000/twitter.png"" alt="Twitter" />
     </a>&nbsp;&nbsp;&nbsp;
     <a href="https://instagram.com/harikotha13" target="blank" />
         <img src="https://img.icons8.com/fluent/30/000000/instagram-new.png" alt="instagram" />
     </a>
  </p>
-
-#### Github Stats:
-
-<br/>
-
+<br><br>
+<div align="center">
+  
 [![GitHub Streak](https://streak-stats.demolab.com?user=harireddy7)](https://git.io/streak-stats)
+
+</div>
